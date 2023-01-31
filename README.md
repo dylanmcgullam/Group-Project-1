@@ -3,13 +3,13 @@
 Project Title
     Commodity in Action
 
-Team Members
+Team Members - Group 5
     Rebecca Davidson
     Chibuzor Ejiaga
     Dylan McGullan
 
 Project Description/Outline
-    
+
 
 Research Questions to Answer
     Volatility of prices
