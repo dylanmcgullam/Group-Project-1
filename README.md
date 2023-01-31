@@ -9,15 +9,15 @@ Team Members
     Dylan McGullan
 
 Project Description/Outline
+    
 
 Research Questions to Answer
-    Forecasting
-    Data trends during 2008 Recession
-    Data trends during/after COVID-19
-    Effects of war(s)
-    Most volatile prices
-    Effects of Hurricane Harvey on global market
-    Current effects due to War in Ukraine
+    Volatility of prices
+        Data trends during 2008 Recession
+        Data trends during/after COVID-19
+        Effects of war(s)
+        Effects of Hurricane Harvey on global market
+    
 
 Datasets to Be Used
     https://www.kaggle.com/datasets/debashish311601/commodity-prices
