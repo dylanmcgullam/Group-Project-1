@@ -84,4 +84,15 @@ Next steps:
         b/ Coffee: quoted in EUR/lb. - Rebecca
         c/ Cotton: quoted in EUR/lb. - Dylan
         
-    Begin graphing prices over time for each sector.
+        Begin graphing prices over time for each sector.
+        run aggregate function for each sector to get "mean", "median", "var", "std", "sem"
+        boxplot for each sector
+        line graph for each sector
+            Locate key dates stated above in the research questions.
+            Create correlations if applicable.
+
+    Compare data from 6 months before key date to 6 months to 1 year after key date.
+    Some questions to answer:
+        What was the mean in the 6-months before and 6-months after?
+        Was there a spike/dip immediately?
+        What was the rate of change?
