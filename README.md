@@ -14,9 +14,17 @@ Project Description/Outline
 Research Questions to Answer
     Volatility of prices
         Data trends during 2008 Recession
+            December 2007 to June 2009
         Data trends during/after COVID-19
+            January 2020 to August 2021
         Effects of war(s)
-        Effects of Hurricane Harvey on global market
+            9/11/2001 - Invasion of Afghanistan
+            2003-2011 - Invasion of Iraq
+            2014 - U.S.-led intervention in Syria
+            February 24, 2022 - Russian invasion of Ukraine
+        Effects of weather on global market
+            August 25-29, 2017 - Hurricane Harvey
+            August 23, 2005 - Hurricane Katrina
     
 
 Datasets to Be Used
@@ -30,7 +38,7 @@ Rough Breakdown of Tasks
 
 
 
-#Steps Taken
+Steps Taken:
 Imported CSV file.
 Set DATE columns as the index.
 Replaced Nan with 0.
