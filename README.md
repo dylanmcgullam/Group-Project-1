@@ -18,13 +18,9 @@ Research Questions to Answer
         Data trends during/after COVID-19
             January 2020 to August 2021
         Effects of war(s)
-            9/11/2001 - Invasion of Afghanistan
             2003-2011 - Invasion of Iraq
-            2014 - U.S.-led intervention in Syria
-            February 24, 2022 - Russian invasion of Ukraine
-        Effects of weather on global market
-            August 25-29, 2017 - Hurricane Harvey
-            August 23, 2005 - Hurricane Katrina
+         
+
     
 
 Datasets to Be Used
@@ -79,9 +75,9 @@ Next steps:
         a/ Live cattle: quoted in EUR/lb.
         b/ Lean Hogs: quoted in EUR/lb.
         
-        6. Softs
-        a/ Sugar: quoted in EUR/lb. - Chibuzor
-        b/ Coffee: quoted in EUR/lb. - Rebecca
-        c/ Cotton: quoted in EUR/lb. - Dylan
+        6. Softs - Rebecca
+        a/ Sugar: quoted in EUR/lb. 
+        b/ Coffee: quoted in EUR/lb. 
+        c/ Cotton: quoted in EUR/lb. 
         
     Begin graphing prices over time for each sector.
