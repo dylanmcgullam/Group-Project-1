@@ -7,7 +7,7 @@ For this project, we chose to focus on commodities and how different historical 
     What effect does an economic crisis have on commodity prices?
     What effect does a health crisis have on commodity prices?
 We pulled a dataset from kaggle.com that contained commodity prices from early 2000 to late 2022.  We looked at the data as a whole, then divied up the workload by sector and by historical event.  The breakdown is the following
-    Rebecca:    Energy Commodities during the Invasion of Iraq in 2003-2011
+    Rebecca:    Energy Commodities during the Invasion of Iraq in (03/2003 to 12/2011)
                     Natural Gas
                     Low Sulphur Gas Oil
                     WTI Crude
