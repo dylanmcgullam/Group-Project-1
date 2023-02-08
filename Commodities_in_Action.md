@@ -2,7 +2,11 @@ Commodities in Action
     by:  Rebecca Davidson, Chibuzor Ejiaga, & Dylan McGullan
 
 
-For this project, we chose to focus on commodities and how different historical events have impacted those commodity prices.  We pulled a dataset from kaggle.com that contained commodity prices from early 2000 to late 2022.  We looked at the data as a whole, then divied up the workload by sector and by historical event.  The breakdown is the following
+For this project, we chose to focus on commodities and how different historical events have impacted those commodity prices.  Our questions to answer are the following:
+    What effect does war have on commodity prices?
+    What effect does an economic crisis have on commodity prices?
+    What effect does a health crisis have on commodity prices?
+We pulled a dataset from kaggle.com that contained commodity prices from early 2000 to late 2022.  We looked at the data as a whole, then divied up the workload by sector and by historical event.  The breakdown is the following
     Rebecca:    Energy Commodities during the Invasion of Iraq in 2003-2011
                     Natural Gas
                     Low Sulphur Gas Oil
@@ -33,7 +37,7 @@ For this project, we chose to focus on commodities and how different historical 
                     Live Cattle
                     Lean Hogs
 
-We cleaned up the original dataset, replacing empty cells with 0, and formatting the date column as the index.  We also converted the prices from EUR to USD by using a 1.09 conversion rate.  During the data cleaning process, we discovered the gasoline prices between the years 2000 to 2005 were missing and we replaced them with 0.  We are aware that would skew the data.  We also discovered that several of these commodity price values were amplified by a factor of 100. Soybeans, corn, ULS diesel, wheat, gasoline, and coffee were all off by roughly a factor of 100.  Instead of changing the dataset by dividing those values by 100 or dropping those commodities altogether, we decided to still use the data because while the values were off, the data would would still represent a realistic trend. 
+We cleaned up the original dataset, replacing empty cells with 0, and formatting the date column as the index.  We also converted the prices from EUR to USD by using a 1.09 conversion rate.  During the data cleaning process, we discovered the gasoline prices between the years 2000 to 2005 were missing and we replaced them with 0.  We are aware that would skew the data.  We also discovered that several of these commodity price values were amplified by a factor of 100. Soybeans, corn, ULS diesel, wheat, gasoline, and coffee were all off by roughly a factor of 100.  Instead of changing the dataset by dividing those values by 100 or dropping those commodities altogether, we decided to still use the raw data because while the values are off, the data would still represent the general trend of that commodity price. 
 
 Our first visual is a graph showing all prices for all commodities for the years 2000-2022.  The three historical events we are focusing on are annotated on the plot.  The first takeaway from the plot is that nickel sits way higher than all the other commodities, making it difficult to see the rest of the data.
 
